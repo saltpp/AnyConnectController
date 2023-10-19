@@ -8,7 +8,7 @@
 
 
 ## Installation
-- Download zip file from https://github.com/saltpp/AnyConnectController/releases and extract it
+- Download the zip file from https://github.com/saltpp/AnyConnectController/releases and then extract it
 - Place AnyConnectController.exe and AnyConnectController.exe.Config in any directory.
 
 
